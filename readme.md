@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Oleg Zazubik</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [goit-react-hw-02](https://goit-react-hw-08-lyart-nine.vercel.app/contacts)
+- 🔭 I’m currently working on [goit-react-hw-08](https://goit-react-hw-08-lyart-nine.vercel.app/contacts)
 
 - 🌱 I’m currently learning **react**
 
